@@ -1,5 +1,6 @@
 #ifndef SPI_H
 #define SPI_H
+#include <stdint.h>
 #include "pin.h"
 #include <avr/io.h>
 
